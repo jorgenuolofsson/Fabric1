@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Create Excel sales file"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2bbe8db3-8607-a667-4e92-b420a87f0655"
+  }
+}
